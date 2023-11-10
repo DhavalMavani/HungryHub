@@ -8,7 +8,7 @@
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/Namaste-React.git"
+  git clone "https://github.com/chetannada/Namaste-React.git"](https://github.com/DhavalMavani/HungryHub.git
 ```
 
 Go to the project directory
