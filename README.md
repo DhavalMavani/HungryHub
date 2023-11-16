@@ -3,7 +3,7 @@
 - I made [Hungry Hub App](https://hungryyhub.netlify.app/) from scratch using React.js and Parcel.js.
 - [Hungry Hub Live Project App Link](https://hungryyhub.netlify.app/)
 
-## 🔥 Clone this Repository
+## Clone this Repository
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
